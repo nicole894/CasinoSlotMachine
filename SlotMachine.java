@@ -1,4 +1,11 @@
 package edu.stevens.cs570.assignments;
+/**+
+ * Name: SlotMachine.java
+ * Assignment #: 1
+ * author: Nicole Annika Gonsalves
+ * University: Stevens Institute of Technology
+ * Submitted on: 2 October 2019
+*/
 
 
 
@@ -57,6 +64,7 @@ public class SlotMachine {
 
     }
 
+    
     /**
      * Get symbol for a reel when the user pulls slot machine lever
      * @return symbol type based on odds (use Math.random())
